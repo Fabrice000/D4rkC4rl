@@ -42,7 +42,6 @@ theme:
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode-4
         name: Switch to light mode
 plugins:
   - include-markdown
