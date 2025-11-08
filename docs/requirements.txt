@@ -23,7 +23,6 @@ markdown==3.3.7
     #   mkdocs-autorefs
     #   mkdocstrings
     #   pymdown-extensions
-markdown-include==0.6.0
     # via -r docs/requirements.in
 markupsafe==2.1.1
     # via
