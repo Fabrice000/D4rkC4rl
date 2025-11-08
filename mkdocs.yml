@@ -7,7 +7,10 @@ nav:
   - Notes:
       - Learn cybersecurity: notes/article1.md
   - Write-ups:
-      - CTFs: writeups/ctf.md
+      - CTFs: 
+          - SADC: 
+              - writeups/SADC NextGenCyber CTF/web.md
+              - writeups/SADC NextGenCyber CTF/reversing.md
       - Tryhackme: writeups/thm.md
       - Hackthebox: writeups/htb.md
   - Resources:
