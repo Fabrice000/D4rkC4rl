@@ -48,12 +48,7 @@ plugins:
   - search
   - git-revision-date-localized
   - social
-  - mkdocstrings:
-      handlers:
-        # See: https://mkdocstrings.github.io/python/usage/
-        python:
-          options:
-            docstring_style: sphinx
+  - mkdocstrings
   
 
 features:
@@ -63,6 +58,8 @@ features:
   - navigation.top
   - content.code.copy
   - content.action.edit
+
+
 
 extra_css:
   - main.css
