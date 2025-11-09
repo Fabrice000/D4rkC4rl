@@ -30,12 +30,12 @@ markupsafe==2.1.1
     #   mkdocstrings
 mergedeep==1.3.4
     # via mkdocs
-mkdocs==1.3.0
+mkdocs
     # via
     #   -r docs/requirements.in
     #   mkdocs-autorefs
     #   mkdocstrings
-mkdocs-material==9.1.13
+mkdocs-material
     # via mkdocs
 mkdocs-material-extensions
     # via mkdocs-material
