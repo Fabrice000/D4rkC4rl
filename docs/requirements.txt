@@ -62,7 +62,6 @@ six==1.16.0
     # via mkdocs
 zipp==3.8.0
     # via importlib-metadata
-mkdocs-material>=9.4
-mkdocs-include-markdown-plugin>=6.0
-mkdocs-git-revision-date-localized-plugin>=1.0
+mkdocs-material
+mkdocs-include-markdown-plugin
 mkdocs-social-plugin
