@@ -65,4 +65,4 @@ zipp==3.8.0
 mkdocs-material>=9.4
 mkdocs-include-markdown-plugin>=6.0
 mkdocs-git-revision-date-localized-plugin>=1.0
-mkdocs-social-plugin>=1.0
+mkdocs-social-plugin
