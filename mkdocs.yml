@@ -5,7 +5,8 @@ site_url: https://fabrice000.github.io/D4rkC4rl/
 nav:
   - Home: index.md
   - Notes:
-      - Learn cybersecurity: notes/article1.md
+      - Linux userful commands: notes/linux-essentials.md
+      - Reconnaissance: notes/recon.md
   - Write-ups:
       - CTFs: 
           - SADC: 
@@ -14,14 +15,13 @@ nav:
       - Tryhackme: writeups/thm.md
       - Hackthebox: writeups/htb.md
   - Resources:
-      - Mobile: resources/mobile.md
-      - Web: resources/web.md
-      - Pwn: resources/pwn.md
-      - Miscellaneous: resources/misc.md
-      - Osint: resources/osint.md
-      - Crypto: resources/crypto.md
-  - About: about.md
-  - Contact: contact.md
+      - Mobile: resources/resources-for-mobile.md
+      - Web: resources/resources-for-web.md
+      - Pwn: resources/resources-for-pwn.md
+      - Miscellaneous: resources/resources-for-misc.md
+      - Osint: resources/resources-for-osint.md
+      - Crypto: resources/resources-for-crypto.md
+      - PrivEsc: resources/resources-for-privesc.md
 
 
 
