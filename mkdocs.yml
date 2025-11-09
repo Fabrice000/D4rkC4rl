@@ -25,7 +25,18 @@ nav:
 
 
 
-theme:
+theme: 
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrated
+    - content.code.annotate
+    - content.code.copy
+    - content.code.fold
+    - content.tabs.link
   palette:
 
     # Palette toggle for automatic mode
