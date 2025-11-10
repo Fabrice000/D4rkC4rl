@@ -200,3 +200,7 @@ boom!!!
 We know now that we can execute code in the log file just by replacing our User-Agent with malicious php code so let find our flag and read it 
 
 After searching i find the flag there
+![Getting flag](img/fat11.png)
+![Flag](img/fat12.png)
+
+### Fatal pwned!!!
