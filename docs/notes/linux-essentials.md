@@ -32,3 +32,4 @@ Linux is a toolset, not a religion. Learn to read logs, chain small commands, an
 ```bash
 # find all config files mentioning "password"
 grep -R --line-number -i "password" /etc 2>/dev/null
+```
