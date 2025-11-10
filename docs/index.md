@@ -32,9 +32,6 @@ Between audits and black coffee, I explore systems, break things (responsibly), 
 > Deep dives into systems and the art of exploitation.
 
 - [💣 SADC  NextGenCyber CTF 2025 Writeup](writeups/SADC NextGenCyber CTF/)
-- [🧬 PicoCTF — “Buffer Overflow 1”](writeups/pico-buffer1.md)
-- [🌌 HackTheBox — “Blue” Exploitation](writeups/htb-blue.md)
-
 ---
 
 ## 🧬 Projects
