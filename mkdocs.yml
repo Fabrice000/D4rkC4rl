@@ -11,7 +11,7 @@ nav:
       - CTFs: 
           - SADC: 
               - writeups/SADC NextGenCyber CTF/web.md
-              - writeups/SADC NextGenCyber CTF/reversing.md
+              - writeups/SADC NextGenCyber CTF/osint.md
       - Tryhackme: writeups/thm.md
       - Hackthebox: writeups/htb.md
   - Resources:
