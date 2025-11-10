@@ -13,8 +13,21 @@ nav:
               - "Overview": "writeups/SADC NextGenCyber CTF/index.md"
               - "Web":      "writeups/SADC NextGenCyber CTF/web.md"
               - "OSINT":    "writeups/SADC NextGenCyber CTF/osint.md"
-      - Tryhackme: writeups/thm.md
-      - Hackthebox: writeups/htb.md
+              # - "Forensics": "writeups/SADC NextGenCyber CTF/forensics.md"
+              # - "Crypto":   "writeups/SADC NextGenCyber CTF/crypto.md"
+              # - "Pwn":      "writeups/SADC NextGenCyber CTF/pwn.md"
+              # - "Miscellaneous": "writeups/SADC NextGenCyber CTF/misc.md"
+              - "Boot2Root": "writeups/SADC NextGenCyber CTF/boot2root.md"
+
+          - Tryhackme: 
+              - "Overview": "writeups/THM CTF/index.md"
+              - "Web":      "writeups/THM CTF/web.md"
+              - "Osint":    "writeups/THM CTF/osint.md"
+              - "Forensics": "writeups/THM CTF/forensics.md"
+              - "Crypto":   "writeups/THM CTF/crypto.md"
+              - "Pwn":      "writeups/THM CTF/pwn.md"
+              - "Miscellaneous": "writeups/THM CTF/misc.md"
+
   - Resources:
       - Mobile: resources/resources-for-mobile.md
       - Web: resources/resources-for-web.md
@@ -43,6 +56,7 @@ theme:
     - content.code.fold
     - content.tabs.link
     - navigation.footer
+    - hero
   palette:
 
     # Palette toggle for automatic mode

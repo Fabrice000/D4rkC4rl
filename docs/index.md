@@ -1,4 +1,7 @@
+![banner](assets/banner.jpg)
+
 # 🕶️ D4rkC4rl’s Den
+
 
 > “In the silence of the terminal, truth has no echo — only signals.”
 
@@ -7,9 +10,10 @@ Here, I share my notes, writeups, and experiments — crafted from late-night de
 
 ---
 
-## ⚔️ About Me
+## ⚔️ Whoami
+![me](assets/1198864021.jpeg)
 
-I’m **Fabrice**, an **ethical hacker** and **cybersecurity student**.  
+I’m **D4rkC4rl**, an **ethical hacker** and **cybersecurity student**.  
 Between audits and black coffee, I explore systems, break things (responsibly), and document the journey.
 
 📜 **This blog exists to:**
