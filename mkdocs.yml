@@ -1,7 +1,7 @@
 site_name: "D4rkC4rl's Blog"
 site_description: 'There is the cyber blog of D4rkC4rl.'
 site_url: https://fabrice000.github.io/D4rkC4rl/
-
+use_directory_urls: true
 nav:
   - Home: index.md
   - Notes:
@@ -10,8 +10,9 @@ nav:
   - Write-ups:
       - CTFs: 
           - SADC: 
-              - writeups/SADC NextGenCyber CTF/web.md
-              - writeups/SADC NextGenCyber CTF/osint.md
+              - "Overview": "writeups/SADC NextGenCyber CTF/index.md"
+              - "Web":      "writeups/SADC NextGenCyber CTF/web.md"
+              - "OSINT":    "writeups/SADC NextGenCyber CTF/osint.md"
       - Tryhackme: writeups/thm.md
       - Hackthebox: writeups/htb.md
   - Resources:
