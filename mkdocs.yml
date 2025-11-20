@@ -10,24 +10,23 @@ nav:
   - Write-ups:
       - CTFs: 
           - SADC: 
-              - "Overview": "writeups/SADC NextGenCyber CTF/index.md"
-              - "Web":      "writeups/SADC NextGenCyber CTF/web.md"
-              - "OSINT":    "writeups/SADC NextGenCyber CTF/osint.md"
-              # - "Forensics": "writeups/SADC NextGenCyber CTF/forensics.md"
-              # - "Crypto":   "writeups/SADC NextGenCyber CTF/crypto.md"
-              # - "Pwn":      "writeups/SADC NextGenCyber CTF/pwn.md"
-              # - "Miscellaneous": "writeups/SADC NextGenCyber CTF/misc.md"
-              - "Boot2Root": "writeups/SADC NextGenCyber CTF/boot2root.md"
+              - "Overview": "writeups/SADC_NextGenCyber_CTF/index.md"
+              - "Web":      "writeups/SADC_NextGenCyber_CTF/web.md"
+              - "OSINT":    "writeups/SADC_NextGenCyber_CTF/osint.md"
+              # - "Forensics": "writeups/SADC_NextGenCyber_CTF/forensics.md"
+              # - "Crypto":   "writeups/SADC_NextGenCyber_CTF/crypto.md"
+              # - "Pwn":      "writeups/SADC_NextGenCyber_CTF/pwn.md"
+              # - "Miscellaneous": "writeups/SADC_NextGenCyber_CTF/misc.md"
+              - "Boot2Root": "writeups/SADC_NextGenCyber_CTF/boot2root.md"
 
           - Tryhackme: 
-              - "Overview": "writeups/THM CTF/index.md"
-              - "Web":      "writeups/THM CTF/web.md"
-              - "Osint":    "writeups/THM CTF/osint.md"
-              - "Forensics": "writeups/THM CTF/forensics.md"
-              - "Crypto":   "writeups/THM CTF/crypto.md"
-              - "Pwn":      "writeups/THM CTF/pwn.md"
-              - "Miscellaneous": "writeups/THM CTF/misc.md"
-
+              - "Overview": "writeups/THM_CTF/index.md"
+              - "Web":      "writeups/THM_CTF/web.md"
+              - "Osint":    "writeups/THM_CTF/osint.md"
+              - "Forensics": "writeups/THM_CTF/forensics.md"
+              - "Crypto":   "writeups/THM_CTF/crypto.md"
+              - "Pwn":      "writeups/THM_CTF/pwn.md"
+              - "Miscellaneous": "writeups/THM_CTF/misc.md"
   - Resources:
       - Mobile: resources/resources-for-mobile.md
       - Web: resources/resources-for-web.md
