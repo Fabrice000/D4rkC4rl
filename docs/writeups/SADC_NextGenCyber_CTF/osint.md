@@ -9,13 +9,13 @@ the target :
 
 ![Target ](img/Image.jpg)
 
-we are an image so let make a image search with google 
+we are an image so let make a image search with google
 
 ![Result ](img/agent009.png)
 
 you can see that we don't need to say anything google IA tell us where is and the flag will be `SADC{Sheikh Zayed}`
 
-### Agent 009 found!!!
+### Agent 009 found
 
 ## Agent 007 [100pts]
 
@@ -36,15 +36,14 @@ and the result
 
 so the flag will be `SADC{BUDAPEST}`
 
-### Agent 007 found!!!
+### Agent 007 found
 
 ## New Currency 1 [100pts]
-
 
 `Found the total number of transactions of this BTC address. 19iqYbeATe4RxghQZJnYVFU4mjUUu76EA6`
 
 Here we need to know about the nulber of transactions this BTC address make !
-So for this type of challenges there are some website you can use to retrieve needed information here two link but we have other i think 
+So for this type of challenges there are some website you can use to retrieve needed information here two link but we have other i think
 
 [blockchain Explorer](https://www.blockchain.com/explorer)
 
@@ -63,9 +62,9 @@ and select the BTC Account and we got our result
 
 and the flag will be `SADC{89321}`
 
-### New Currency 1 found!!!
+### New Currency 1 found
 
-## New Currency 2 [100pts]
+##  New Currency 2 [100pts]
 
 `Found the total volume of transactions of this BTC address. 19iqYbeATe4RxghQZJnYVFU4mjUUu76EA6
 Flag format : SADC{xxxxxxxxxxxxxxx}`
@@ -76,9 +75,9 @@ like the challenge before it is the same process so i take the adress and paste 
 
 so the flag is `SADC{2623966242.1590915}`
 
-### New currency 2 found !!!
+### New currency 2 found
 
-##  ProtonPgP  [100pts]
+## ProtonPgP  [100pts]
 
 `Can you retrieve the PGP Keys of this email address, ezeckieldadjo@protonmail.com`
 
@@ -94,4 +93,4 @@ so let's go here and get the keys
 
 So the flag will be `SADC{57987595945E4384836B6E57205A2594C3FFEDC9}`
 
-### Proton PGP  found!!!
+### Proton PGP  found

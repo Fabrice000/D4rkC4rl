@@ -6,11 +6,13 @@
 ---
 
 ## 🧭 Quick Philosophy
+
 Linux is a toolset, not a religion. Learn to read logs, chain small commands, and automate. Always prefer understanding over memorizing.
 
 ---
 
 ## 🔑 Useful Concepts
+
 - **The filesystem**: `/etc` (config), `/var` (logs, runtime), `/home` (users), `/root` (admin).  
 - **Permissions**: `rwx` for user/group/others. `chmod`, `chown`.  
 - **Processes & signals**: `ps`, `top`/`htop`, `kill -9 PID`, `pkill`, `nice`/`renice`.  
@@ -22,6 +24,7 @@ Linux is a toolset, not a religion. Learn to read logs, chain small commands, an
 ## 🧰 Essential Commands (with intent + example)
 
 ### File & text
+
 - `ls -la` — list all, including hidden files.  
 - `file target` — detect file type.  
 - `cat file`, `less file`, `head -n 50 file`, `tail -f file` — view files.  

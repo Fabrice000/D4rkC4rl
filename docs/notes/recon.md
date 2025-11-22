@@ -6,8 +6,8 @@
 
 ---
 
-
 ## 🧰 Tools & Goals (quick map)
+
 - DNS & subdomains: `dig`, `host`, `amass`, `subfinder`, `crt.sh` (passive).  
 - Port scanning: `nmap`, `masscan`.  
 - Directories & endpoints: `gobuster`, `ffuf`, `dirsearch`.  
@@ -20,7 +20,9 @@
 ## 🧾 Passive Recon Examples
 
 ### Certificates & public records
+
 - Check public certificates for subdomains (crt.sh or `openssl` if you have cert):
+
 ```bash
 # look up cert transparency entries with crt.sh (web)
 # CLI: use `dig` to check CNAME / A records
@@ -41,14 +43,14 @@ dig example.com MX
 
 ### Search engines & GitHub leaks
 
-* Google dorks: `site:example.com "index of"`, `site:github.com example.com "API_KEY"`.
-* GitHub search for potential secrets — use responsibly.
+- Google dorks: `site:example.com "index of"`, `site:github.com example.com "API_KEY"`.
+- GitHub search for potential secrets — use responsibly.
 
 ---
 
 ## 🛠️ Active Recon Examples
 
-### Subdomain discovery 
+### Subdomain discovery
 
 ```bash
 # passive lists
